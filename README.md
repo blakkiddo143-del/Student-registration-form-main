@@ -157,6 +157,6 @@ http://localhost:3000/students
 
 ## 👨‍💻 Author
 
-Kapil Charan  
+S ANBU SELVAN  
 B.Tech CSE Student  
 Full Stack Development Practice Project
